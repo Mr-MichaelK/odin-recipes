@@ -13,6 +13,7 @@ body {
 
 h2 {
     font-size: 40px;
+    color: rgb(199, 30, 30);
 }
 
 #chef {
@@ -23,6 +24,7 @@ h2 {
     font-size: 38px;
     font-weight: bold;
     font-style: italic;
+    line-height: 0.3cm;
 }
 
 #empty-space {
