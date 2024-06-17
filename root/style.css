@@ -5,7 +5,8 @@ body {
     margin-left: 1cm;
 }
 
-#main-heading {
+#main-heading,
+h1 {
     text-align: center;
     font-size: 50px;
     font-weight: bold;
@@ -16,15 +17,20 @@ h2 {
     color: rgb(199, 30, 30);
 }
 
-#chef {
+.box {
     text-align: center;
 }
 
-#chef p {
+.box p {
     font-size: 38px;
     font-weight: bold;
     font-style: italic;
     line-height: 0.3cm;
+}
+
+#italicised {
+    font-weight: normal;
+    font-size: 30px;
 }
 
 #empty-space {
