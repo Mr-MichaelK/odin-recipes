@@ -1,0 +1,35 @@
+body {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5cm;
+    margin-left: 1cm;
+}
+
+#main-heading {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#chef {
+    text-align: center;
+}
+
+#chef p {
+    font-size: 38px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#empty-space {
+    height: 100px;
+}
+
+ul,
+ol {
+    margin-left: 0.75cm;
+}
