@@ -54,4 +54,7 @@ img {
 .note {
     background-color: rgba(199, 30, 30, 0.816);
     color: rgb(0, 0, 0);
+    border: 3px solid rgb(158, 5, 5);
+    padding: 8px 16px;
+    display: inline-block;
 }
