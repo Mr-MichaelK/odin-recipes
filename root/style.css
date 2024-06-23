@@ -2,8 +2,7 @@ body {
     font-size: 32px;
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.5cm;
-    margin-left: 1cm;
-    margin-right: 1cm;
+    margin: 0 1cm;
 }
 
 #main-heading,
@@ -32,6 +31,7 @@ h2 {
 #italicised {
     font-weight: normal;
     font-size: 30px;
+    line-height: 1cm;
 }
 
 #empty-space {
@@ -41,4 +41,17 @@ h2 {
 ul,
 ol {
     margin-left: 0.75cm;
+}
+
+a {
+    color: rgb(199, 30, 30);
+}
+
+img {
+    border: 5px solid rgb(158, 5, 5);
+}
+
+.note {
+    background-color: rgba(199, 30, 30, 0.816);
+    color: rgb(0, 0, 0);
 }
